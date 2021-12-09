@@ -1,0 +1,1 @@
+Bomberman=||=bomberman.icon.png=||=window.location.href='bomberman.htm';
