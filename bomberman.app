@@ -1,1 +1,1 @@
-Bomberman|[1]|bomberman.icon.png|[1]|window.location.href='bomberman.htm';
+Bomberman|[1]|sys.bomberman.png|[1]|window.location.href='bomberman.htm';
