@@ -1,1 +1,1 @@
-Bomberman|[1]|sys.bomberman.png|[1]|window.location.href='bomberman.htm';
+title|[>]|Bomberman|[1]|favicon|[>]|sys.bomberman.png|[1]|run|[>]|window.location.href='bomberman.htm';
