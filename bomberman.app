@@ -1,1 +1,0 @@
-title|[>]|Bomberman|[1]|favicon|[>]|sys.bomberman.png|[1]|run|[>]|window.location.href='bomberman.htm';
